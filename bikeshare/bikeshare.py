@@ -7,6 +7,7 @@ CITY_DATA = { 'chicago': 'all-project-files/chicago.csv',
               'new york city': 'all-project-files/new_york_city.csv',
               'washington': 'all-project-files/washington.csv' }
 
+#only 6 months of data are available
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
 
 DAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
