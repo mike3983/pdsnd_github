@@ -10,6 +10,7 @@ CITY_DATA = { 'chicago': 'all-project-files/chicago.csv',
 #only 6 months of data are available
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
 
+#days cannot use an integer
 DAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
 
 
