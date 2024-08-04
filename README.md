@@ -10,7 +10,9 @@ Bikeshare Project
 Provides user with bikeshare data from three cities: New York City, Washington, Chicago
 
 ### Files used
+```
 bikeshare.py
+```
 
 ### Instructions
 For the terminal, navigate to the folder that holds the bikeshare.py file. Run the following command:
