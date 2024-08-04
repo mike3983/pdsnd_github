@@ -12,6 +12,14 @@ Provides user with bikeshare data from three cities: New York City, Washington, 
 ### Files used
 bikeshare.py
 
+### Instructions
+For the terminal, navigate to the folder that holds the bikeshare.py file. Run the following command:
+```
+python3 bikeshare.py
+```
+
+Follow the prompts in the terminal to get the data you seek!!
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
