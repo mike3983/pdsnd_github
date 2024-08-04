@@ -21,6 +21,7 @@ def user_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('How are you today?!')
+    print('Do you like bikes?')
     print('Hello!! Time to explore some bikeshare data!!')
 
     city = input('Which city data do you want to examine: Washington, Chicago, or New York City?').lower()
