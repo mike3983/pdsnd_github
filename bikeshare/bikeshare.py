@@ -20,7 +20,7 @@ def user_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    
+    print('How are you today?!')
     print('Hello!! Time to explore some bikeshare data!!')
 
     city = input('Which city data do you want to examine: Washington, Chicago, or New York City?').lower()
